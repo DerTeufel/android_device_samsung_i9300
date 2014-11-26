@@ -7,9 +7,9 @@
     },
     {
         "remote": "github",
-        "repository": "NamelessRom/android_kernel_samsung_smdk4412",
-        "target_path": "kernel/samsung/smdk4412",
-        "revision": "n-2.0"
+        "repository": "DerTeufel/android_kernel_samsung_smdk4412",
+        "target_path": "kernel/samsung/devil_smdk4412",
+        "revision": "nameless-2.0"
     },
     {
         "remote": "github",
